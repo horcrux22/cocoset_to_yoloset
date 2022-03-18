@@ -1,3 +1,4 @@
+#구조 수정중입니다.
 # 설명
 
 ```json_to_text.py``` : json파일로 되어있는 coco format 을 yolo format으로 변경후 labels 디렉토리에 txt파일로 저장
